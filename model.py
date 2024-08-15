@@ -1,7 +1,6 @@
 from sklearn.linear_model import LinearRegression
 import joblib
 import pandas as pd
-import matplotlib.pyplot as plt
 from sklearn.model_selection import train_test_split
 import numpy as np
 from sklearn.metrics import mean_absolute_error, mean_squared_error, r2_score
